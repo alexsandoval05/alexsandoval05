@@ -1,3 +1,10 @@
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+<p align="center">
+  <img src="/assets/Banner para Linkedin Analista Sistemas Moderno Negro (2).png" width="1000" style="border-radius: 50%;">
+
+
 ## Hi, I am Alexander Sandoval 👋
 - 🔭 I’m currently working on some data projects
 <!--
