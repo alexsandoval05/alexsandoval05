@@ -19,7 +19,7 @@
 
 ## 🧠 Featured Projects
 
-**[https://github.com/alexsandoval05/pruebaconexion](https://github.com/alexsandoval05/pruebaconexion)**
+**[💡Prueba de conexion](https://github.com/alexsandoval05/pruebaconexion)**
 
 ### A passionate Chemical Engineer & Data Analisis
 
