@@ -1,14 +1,8 @@
 
 ![MasterHead](https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 
-https://www.canva.com/design/DAG-sIiukhU/FKUVEByJUgjVtHVQh4wJKg/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ
-
-<img align="right" alt="coding" width="400" src="[https://www.canva.com/design/DAG-sIiukhU/f75idgQzfUmuHaoDdFYHFw/view?utm_content=DAG-sIiukhU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e0506e437](https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)">
-
-![Texto alternativo descriptivo](https://www.canva.com/design/DAG-sIiukhU/FKUVEByJUgjVtHVQh4wJKg/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
-
-
-<img src="https://www.canva.com/design/DAG-sIiukhU/FKUVEByJUgjVtHVQh4wJKg/edit?utm_content=DAG-sIiukhU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg
+<img align="left" alt="coding" width="100" src="https://www.canva.com/design/DAG-sIiukhU/f75idgQzfUmuHaoDdFYHFw/view?utm_content=DAG-sIiukhU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e0506e437">
 
 ## Hi, I am Alexander Sandoval 👋
 
