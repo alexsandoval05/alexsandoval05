@@ -1,10 +1,4 @@
-
 ![MasterHead](https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
-
-
-
-https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg
-<img align="left" alt="coding" width="100" src="https://www.canva.com/design/DAG-sIiukhU/f75idgQzfUmuHaoDdFYHFw/view?utm_content=DAG-sIiukhU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e0506e437">
 
 ## Hi, I am Alexander Sandoval 👋
 
@@ -50,3 +44,5 @@ https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaq
 
 Here are some ideas to get you started:
 
+https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg
+<img align="left" alt="coding" width="100" src="https://www.canva.com/design/DAG-sIiukhU/f75idgQzfUmuHaoDdFYHFw/view?utm_content=DAG-sIiukhU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e0506e437">
