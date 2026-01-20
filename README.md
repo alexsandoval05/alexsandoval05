@@ -16,11 +16,10 @@
 🤝 Experienced collaborating across quality, production, logistics, and HR teams to integrate data-driven solutions in manufacturing environments.
 
 "I turn data into decisions."
-
 ## 🧠 Featured Projects
 
 **[Proyecto de identificacion de outliers de empresa de licores](https://github.com/alexsandoval05/licores_latam.git)**
-**[Proyecto de identificacion de outliers de empresa de licores](https://github.com/alexsandoval05/licores_latam.git)**
+**[Human illness affected by PM 2.5 contamination in different countries](https://github.com/alexsandoval05/ContaminacionPM25-VS-enfermedades.git)**
 
 
 <h3 align="left">Connect with me:</h3>
