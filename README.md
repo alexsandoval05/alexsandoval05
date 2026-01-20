@@ -31,27 +31,12 @@
 
 ## ⚙️ Technical Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Static Badge](https://img.shields.io/badge/phyton-yellow?logo=python)
-![Pandas](https://img.shields.io/badge/python-pandas-blue)
+![Static Badge](https://img.shields.io/badge/phyton-pandas-blue?logo=python&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/SQL-yellow)
+![Static Badge](https://img.shields.io/badge/Power%20BI%20-%20black?logo=powerbi&logoColor=yellow)
 
 
 
--->
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
 
 <!--
 **alexsandoval05/alexsandoval05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
