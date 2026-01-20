@@ -32,7 +32,11 @@
 ## ⚙️ Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/phyton-yellow?logo=python)
 ![Pandas](https://img.shields.io/badge/python-pandas-blue)
+![Static Badge](https://img.shields.io/badge/SQL-yellow)
+
+
 
 -->
 ###
