@@ -20,11 +20,8 @@
 
 ## 🧠 Featured Projects
 
-**[💡Prueba de conexion](https://github.com/alexsandoval05/pruebaconexion)**
+**[Proyecto de identificacion de outlyers de empresa de licores](https://github.com/alexsandoval05/licores_latam.git)**
 
-### A passionate Chemical Engineer & Data Analisis
-
-- 👨‍💻 All of my projects are available at **[Proyecto de identificacion de outlyers de empresa de licores](https://github.com/alexsandoval05/licores_latam.git)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
