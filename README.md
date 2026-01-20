@@ -21,7 +21,7 @@
 
 ## 🧠 Featured Projects
 
-**[Proyecto de identificacion de outlyers de empresa de licores](https://github.com/alexsandoval05/licores_latam.git)**
+**[Proyecto de identificacion de outliers de empresa de licores](https://github.com/alexsandoval05/licores_latam.git)**
 
 
 <h3 align="left">Connect with me:</h3>
