@@ -18,7 +18,7 @@
 "I turn data into decisions."
 ## 🧠 Featured Projects
 
-**[Revenue Sustainability Chrysal](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
+**[Revenue Sustainability Chrysal (under construction)](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
 
 **[Human illness affected by PM 2.5 contamination in different countries](https://github.com/alexsandoval05/ContaminacionPM25-VS-enfermedades.git)**
 
