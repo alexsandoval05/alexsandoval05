@@ -1,5 +1,4 @@
 [![perfil-linkedin.jpg](https://i.postimg.cc/W41R146f/perfil-linkedin.jpg)](https://postimg.cc/68gbHtPd)
-#![MasterHead](https://as2.ftcdn.net/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 ## Hi, I am Alexander Sandoval 👋
 
 ## 👨‍💻 About Me
