@@ -20,6 +20,8 @@
 
 **[Revenue Sustainability Chrysal (under construction)](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
 
+**[Análisis de Telecomunicaciones](https://github.com/alexsandoval05/telecom_analysis)**
+
 **[Human illness affected by PM 2.5 contamination in different countries](https://github.com/alexsandoval05/ContaminacionPM25-VS-enfermedades.git)**
 
 
