@@ -20,9 +20,35 @@
 
 **[Revenue Sustainability Chrysal (under construction)](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
 
-<a href="https://postimg.cc/XpRr75dp">
-  <img src="https://i.postimg.cc/SxsCd7K7/Boxplot-country-revenue.png" alt="Boxplot country revenue" width="400">
-</a>
+<table>
+  <tr>
+    <td width="45%">
+      <a href="https://postimg.cc/XpRr75dp">
+        <img src="https://i.postimg.cc/SxsCd7K7/Boxplot-country-revenue.png"
+             alt="Revenue Boxplot"
+             width="100%">
+      </a>
+    </td>
+
+    <td width="55%" valign="top">
+
+### 📊 Revenue Sustainability Chrysal
+
+This project analyzes sales revenue across four countries using Python.
+
+**Key findings:**
+- Netherlands shows the highest revenue variability.
+- Colombia presents several high-value outliers.
+- Kenya and Ecuador have more stable distributions.
+- The analysis includes EDA, outlier detection, and business insights.
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn.
+
+[➡️ View Project](https://github.com/tuusuario/tu-repositorio)
+
+    </td>
+  </tr>
+</table>
 
 **[Análisis de Telecomunicaciones](https://github.com/alexsandoval05/telecom_analysis)**
 
