@@ -20,7 +20,9 @@
 
 **[Revenue Sustainability Chrysal (under construction)](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
 
-[![Boxplot-country-revenue.png](https://i.postimg.cc/SxsCd7K7/Boxplot-country-revenue.png)](https://postimg.cc/XpRr75dp)
+<a href="https://postimg.cc/XpRr75dp">
+  <img src="https://i.postimg.cc/SxsCd7K7/Boxplot-country-revenue.png" alt="Boxplot country revenue" width="400">
+</a>
 
 **[Análisis de Telecomunicaciones](https://github.com/alexsandoval05/telecom_analysis)**
 
