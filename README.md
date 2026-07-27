@@ -9,7 +9,7 @@
 
 🌍 Based in Bogotá, Colombia – open to remote opportunities.
 
-🔎 Currently working on projects involving machine learning, dashboard development, supply chain analytics, and business intelligence.
+🔎 Currently working on projects involving dashboard development, supply chain analytics, KPIs and business intelligence.
 
 📈 Passionate about turning raw data into actionable insights that drive strategic decisions and operational efficiency.
 
