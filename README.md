@@ -18,7 +18,7 @@
 "I turn data into decisions."
 ## 🧠 Featured Projects
 
-**[Revenue Sustainability Chrysal](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
+**[Sustainability Project Profitability at Chrysal](https://github.com/alexsandoval05/Revenue-sustainability-Chrysal.git)**
 
 <img
   src="https://i.postimg.cc/SxsCd7K7/Boxplot-country-revenue.png"
